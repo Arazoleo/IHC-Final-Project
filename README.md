@@ -1,4 +1,4 @@
-# Protótipo de alta fidelidade Figma
+# Protótipo Final Figma
 
 Este repositório foi criado para armazenar e disponibilizar o protótipo na versão final desenvolvido no Figma para a disciplina de IHC.
 
